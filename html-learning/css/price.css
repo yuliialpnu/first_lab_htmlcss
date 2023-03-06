@@ -1,0 +1,52 @@
+.price{
+    background-color: #FFFFFF;
+    margin-left: 165px;
+
+}
+
+
+.priceTitle{
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 32px;
+    color: #091133;
+}
+
+.pricePar{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #5D6970;
+}
+
+.priceInner{
+    width: 730px;
+}
+
+.priceOf{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 48px;
+    color: #37447E;
+}
+
+.priceScrol{
+    display: flex;
+    
+}
+
+.priceArticle{
+    width: 340px;
+    margin-right: 30px;
+}
+
+.priceButton{
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #111B47;
+    border-radius: 2px;
+    width: 190px;
+}
